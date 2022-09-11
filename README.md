@@ -1,10 +1,5 @@
-# TheCodeGhinux
-Github Profile
-# Hi, I'm Ayo, TheCodeGhinux
-
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/giy/">
@@ -25,13 +20,15 @@ Github Profile
   <h1>
   Hey there, welcome to my Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <br>
+    I'm Ayo, walk wit me...
 </h1>
   
   
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 </div>
 
 ---
@@ -44,8 +41,6 @@ I am a Frontend Developer, Python developer and Machine learning engineer <img s
 - ⚙️: Exploring Maachine learning and building models to solve real-world  problems.
 
 - ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- 📬:Reach me on: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/giy/), [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/na6vc0)
 
 
 ---
@@ -80,5 +75,20 @@ I am a Frontend Developer, Python developer and Machine learning engineer <img s
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeghinux&layout=compact&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
 
+
+---
+### 📱: Contact me :
+<div>
+   <a href="https://www.linkedin.com/in/giy/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/codeghinux">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://wa.link/na6vc0">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge">
+    </a>
+  </div>
+</div>
 
 
