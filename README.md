@@ -21,7 +21,7 @@
   Hey there, welcome to my Github
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <br>
-    I'm Ayo, walk wit me...
+    I'm Ayo, walk with me...
 </h1>
   
   
