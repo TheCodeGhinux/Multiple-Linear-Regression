@@ -74,9 +74,11 @@ I am a Frontend Developer, Python developer and Machine learning engineer <img s
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecodeghinux&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+[![TheCodeGhinux's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thecodeghinux&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
-![TheCodeGhinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&show_icons=true$show_owner)
+<!-- ![TheCodeGhinux's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodeghinux&theme=prussian&show_icons=true$show_owner) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodeghinux&layout=compact&theme=prussian)](https://github.com/thecodeghinux/github-readme-stats)
 
 
 
