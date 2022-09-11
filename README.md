@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge">
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=thecodeghinux&style=flat-square&color=blue" alt=""/>
   
   <h1>
   Hey there, welcome to my Github
